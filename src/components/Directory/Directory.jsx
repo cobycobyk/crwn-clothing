@@ -1,5 +1,4 @@
 import "./Directory.scss";
-import { useState } from "react";
 import MenuItem from "../MenuItem/MenuItem";
 
 const sections = [
